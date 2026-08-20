@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-51-ai-agent-assistant-interaction-audit-and",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-51-ai-agent-assistant-interaction-audit-and": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-51-ai-agent-assistant-interaction-audit-and",
+    "origin"
+  ]
+}
